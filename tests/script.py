@@ -1,5 +1,5 @@
 def hello_world():
-    return "Hello, World!"
+    return "Hello, Universe!"
 
 """
 def print_total_price_zero():
